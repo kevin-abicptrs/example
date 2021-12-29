@@ -1,0 +1,78 @@
+.coutact-banner {
+    /* position: relative;
+    top: 130px; */
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+}
+.blur-box1 {
+    background-color: white;
+    /* position: relative;
+    top: 130px; */
+    height: 80px;
+}
+.banner-line {
+    /* position: relative;
+    top: 125px; */
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+}
+.call {
+    /* position: relative;
+    top: 130px; */
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+}
+.lines {
+    /* position: relative;
+    top: 130px; */
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+}
+.qusetion {
+    /* position: relative;
+    top: 130px; */
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+}
+.cut {
+    /* position: relative;
+    top: 130px; */
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+}
+td{
+    padding: 10px;
+    border-bottom: 1px solid rgb(194, 194, 194);
+}
+.bottom-line {
+    /* position: relative;
+    top: 130px; */
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+}
+.ques {
+    /* position: relative;
+    top: 100px; */
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+}
+.ques button {
+    border: none;
+    background-color: white;
+}
+.footer {
+    /* position: relative;
+    top: 100px; */
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+}

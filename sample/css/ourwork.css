@@ -1,0 +1,70 @@
+.ourwork-banner {
+    position: relative;
+    top: 130px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ourwork-top {
+    position: relative;
+    top: 110px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Consulting {
+    position: relative;
+    top: 130px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.blur-box1 {
+    background-color: white;
+    position: relative;
+    top: 130px;
+    height: 80px;
+}
+.structure {
+    position: relative;
+    top: 130px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.commerce {
+    position: relative;
+    top: 130px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ourwork-line {
+    position: relative;
+    top: 130px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.partner {
+    position: relative;
+    top: 130px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer-line {
+    position: relative;
+    top: 130px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer {
+    position: relative;
+    top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

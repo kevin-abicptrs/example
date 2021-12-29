@@ -1,0 +1,46 @@
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    /* width: 1580px; 큰 화면에서 확인해보고 지우기*/
+    width: 100vw;
+    height: 120px;
+    border-bottom: 0.2px solid rgb(153, 153, 153);
+    z-index: 5;
+    background-color: white;
+}
+.header .nav .menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 55px;
+}
+.menu a:nth-of-type(1) {
+    position: relative;
+    top: -13px;
+    left: -100px;
+}
+.menu a:nth-of-type(n+2) {
+    margin-left: 8px;
+}
+.header .nav .menu .top-right{
+    display: flex;
+    margin-bottom: 5px;
+    margin-left: 8px;
+}
+.top-right a:nth-of-type(1) {
+    position: relative;
+    top: -2px;
+    left: 10px;
+}
+.top-right a:nth-of-type(2) {
+    position: relative;
+    top: -2px;
+    left: 10px;
+    
+}
+.top-right .admin-button {
+    position: relative;
+    left: 30px;
+}

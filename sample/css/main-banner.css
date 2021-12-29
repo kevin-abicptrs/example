@@ -1,0 +1,101 @@
+.body {
+    width: 1700px;
+    overflow-x: hidden;
+}
+.section1 {
+    position: relative;
+    top: 100px;
+    justify-content: center;
+    align-items: center;
+}
+.outer {
+    width: 1800px;
+    height: 700px;
+    margin: 0 auto;
+    display: flex;
+    overflow-x: hidden;
+}
+.inner-list {
+    display: flex;
+    transition: .5s ease-out;
+    width: 100px;
+    height: 100%;
+}
+.button-list {
+    text-align: center;
+}
+.container {
+    position: relative;
+    top: 130px;
+    left: -170px;
+}
+.blur-box1 {
+    background-color: white;
+    position: relative;
+    top: 130px;
+    height: 80px;
+}
+.pdds {
+    position: relative;
+    top: 130px;
+}
+.mouse {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.mouse-over {
+    margin: 0 25px;
+    overflow: hidden;
+}
+.mouse-over img:hover {
+    transform: scale(1.1); transition: transform .8s;
+}  
+.line-image {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 130px;
+}
+.about {
+    position: relative;
+    top: 130px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.button {
+    position: relative;
+    top: -20px;
+    right: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+    z-index: 4;
+}
+.service {
+    position: relative;
+    top: 130px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.map {
+    position: relative;
+    top: 130px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer {
+    position: relative;
+    top: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.admin-button {
+    position: relative;
+}

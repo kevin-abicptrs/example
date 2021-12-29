@@ -1,0 +1,63 @@
+.top-banner {
+    position: relative;
+    top: 130px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.hello {
+    position: relative;
+    top: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.blur-box1 {
+    background-color: white;
+    position: relative;
+    top: 130px;
+    height: 80px;
+}
+.line {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 130px;
+}
+.people {
+    position: relative;
+    top: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.year-top {
+    position: relative;
+    top: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.year {
+    position: relative;
+    top: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.year-bottom {
+    position: relative;
+    top: 110px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer {
+    position: relative;
+    top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
